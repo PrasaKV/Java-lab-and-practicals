@@ -14,7 +14,7 @@ public class NameDegree {
     public static void main(String[] args) 
     {
          
-        System.out.println("My name is Awanthi.");
+        System.out.println("My name is Prasad.");
         System.out.println(" My Degree program is Software  Engineering");
     
     }
